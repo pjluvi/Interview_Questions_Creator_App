@@ -1,7 +1,8 @@
 langchain
 langchain-community
 langchain-core
-openai
+langchain_google_genai
+transformers
 pypdf
 tiktoken
 aiofiles
